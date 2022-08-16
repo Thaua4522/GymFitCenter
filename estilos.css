@@ -1,0 +1,29 @@
+.margininf{
+    margin-bottom: 20px;
+}
+
+.marginsup{
+    margin-top: 20px;
+}
+
+#formulario{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.marginlateral{
+    margin-left: 20px;
+}
+
+.tamahoimg{
+    width: 275px;
+    height: 180px;
+}
